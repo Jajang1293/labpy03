@@ -3,7 +3,7 @@
 ## Algoritma - Latihan1
 
 * Masukkan Bilangan 
-* Import Random data untuk bilanganyang diinput
+* Import Random data untuk bilangan yang diinput
 * Menentukan hasil nilai random untuk data yang di input dalam range 0.0 s/d 0.5
 * Tampilkan Nilai Bilangan acak yang diinput
 
